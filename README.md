@@ -13,3 +13,5 @@ Steps to execute:(Ensure both front.c and rock123.c are in the same directory)
 A welcome page will appear. Press the right mouse button to get the Main Menu.
 Click on "Start Animation" to see the entire animation.
 Click "Exit" to close the program
+
+This is a group project, done along with my classmates.
